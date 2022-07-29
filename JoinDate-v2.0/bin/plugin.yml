@@ -1,0 +1,10 @@
+main: me.hybridplague.joindate.JoinDate
+name: JoinDate
+version: 2.0
+api-version: 1.13
+
+commands:
+   joindate:
+     aliases: [jd]
+   joindateadmin:
+     aliases: [jdadmin, jda]
